@@ -1,0 +1,10 @@
+# Directorios ignorados
+/.vscode
+# Virtual env
+/venv
+/video
+/audio
+
+# Archivos de prueba
+converter.py
+video_converter.py
